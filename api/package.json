@@ -1,0 +1,22 @@
+{
+  "name": "blockchain_api",
+  "version": "1.0.0",
+  "description": "BankEx Blockchain API",
+  "main": "node-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackEx/blockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Sergey Vinogradov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackEx/blockchain/issues"
+  },
+  "homepage": "https://github.com/BackEx/blockchain#readme"
+}
